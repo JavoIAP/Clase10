@@ -1,0 +1,37 @@
+Salir de la casa
+caminar al supermercado
+tomar un carrito
+iterar recorrer pasillo
+	ver productos
+	iterar sobre productos
+		si quedan productos en el pasillo
+			si quiero comprar el producto	
+				agregar al carrito
+		
+	seguir iterando hasta que no hayan productos
+seguir iterando hasta que no queden pasillos
+ir a la caja
+entregar dinero
+tomar comprobante
+volver a la casa
+entrar a la casa
+
+
+Ir a la cocina de la casa
+abrir refrigerador
+si no hay botella
+	cerrar refigerador
+si hay
+	tomar botella
+	cerrar refrigerador
+	tomar fondo de la botella con mano izquierda y tapa con la derecha
+	girar tapa en sentido antihorario
+	disfrutar contenido
+	
+
+
+
+
+
+
+
